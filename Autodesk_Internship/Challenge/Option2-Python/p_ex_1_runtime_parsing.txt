@@ -1,0 +1,9 @@
+ex_1_runtime_parsing.json contains a list of entries representing runtime of specific operation in associated software. 
+
+Write a program in Python which:
+- accepts as an input json file,
+- parses the the file, calculates and prints:
+    - operation, which is taking the longest when summed from all entries,
+    - list of softwares from the one taking the longest, to the one running the shortest.
+        
+What kind of error handling would you implement? What should be done about invalid entries?

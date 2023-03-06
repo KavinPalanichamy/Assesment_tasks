@@ -1,0 +1,6 @@
+Write a program in Python which:
+- accepts as an input a number of points,
+- generates that many points on a 2d plane in the range [-100; 100] for both axes,
+- finds and prints three points from which the smallest triangle can be built.
+
+What kind of error handling would you implement? How to validate that the triangle is valid? How to speed up the algorithm to avoid calculating all possible combinations?
