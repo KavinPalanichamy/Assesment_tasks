@@ -6,4 +6,6 @@
 
 -> To acheive a good efficiency the iterationas has been set to 10000 and the step to 0.1, and hence the model may take a few  seconds to train.
 
--> A distribution map was generated using MATLAB to verify the validity in an intuitive wave by identifying the clusters ( This does not contribute to the algorithm , its just for user verification purpose ). Though the testing for the model was implemented by picking up a portion of the imported data, Additional verification methods may solidify the validity of the algorithm. The graph  is included in the folder in .png format
+-> A distribution map was generated using MATLAB to verify the validity in an intuitive wave by identifying the clusters ( This does not contribute to the algorithm , its just for user verification purpose ). 
+
+-> Though the testing for the model was implemented by picking up a portion of the imported data, Additional verification methods may solidify the validity of the algorithm. The graph  is one such method and is included in the folder in .png format
