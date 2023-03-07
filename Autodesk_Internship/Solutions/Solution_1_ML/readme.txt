@@ -4,7 +4,7 @@
 
 ->  Due to the time constrains in developing the algorithm, error handling has not been implemented and hence the model will work only for perfect set of data.
 
--> To acheive a good efficiency the iterationas has been set to 10000 and the step to 0.1, and hence the model may take a few  seconds to train.
+-> To acheive a good efficiency the iterationas has been set to 10000 and the step to 0.001, and hence the model may take a few  seconds to train.
 
 -> A distribution map was generated using MATLAB to verify the validity in an intuitive wave by identifying the clusters ( This does not contribute to the algorithm , its just for user verification purpose ). 
 
