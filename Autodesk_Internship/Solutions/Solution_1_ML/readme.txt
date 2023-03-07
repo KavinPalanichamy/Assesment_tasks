@@ -1,4 +1,4 @@
--> The given problem is solved by using a  linear regression model.
+-> The given problem is solved by using a  logistic regression model.
 
 -> The model operates with maximum efficiency in the salary range of approximately 20000 > SALARY > 150000 as standardization algorithms used are based on 70000 as mean.
 
